@@ -1,5 +1,9 @@
 tokenizer.pickle
+my_model.h1/
 my_model.h1/keras_metadata.pb
 my_model.h1/saved_model.pb
 my_model.h1/variables/variables.data-00000-of-00001
 my_model.h1/variables/variables.index
+train/
+train/runs/May14_21-39-59_DESKTOP-A5D6MBM/1652557987.6097064/events.out.tfevents.1652557987.DESKTOP-A5D6MBM.15336.1
+train/runs/May14_21-39-59_DESKTOP-A5D6MBM/events.out.tfevents.1652557987.DESKTOP-A5D6MBM.15336.0
